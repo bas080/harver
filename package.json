@@ -9,6 +9,7 @@
   },
   "author": "Bas Huis",
   "dependencies": {
-    "@mapbox/blend": "^2.0.1"
+    "@mapbox/blend": "^2.0.1",
+    "node-fetch": "^3.0.0"
   }
 }
